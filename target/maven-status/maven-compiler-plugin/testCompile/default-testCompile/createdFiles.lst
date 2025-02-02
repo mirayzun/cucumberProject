@@ -1,0 +1,7 @@
+StepDefinitions\TransferMoneyIslemiSteps.class
+StepDefinitions\AddMoneySteps.class
+StepDefinitions\TestRunner.class
+com\projectMiray\test\AppTest.class
+StepDefinitions\EditAccount.class
+StepDefinitions\LoginSteps.class
+StepDefinitions\BaseTest.class
